@@ -1,0 +1,35 @@
+
+class valid_images:
+    TH = 'Thumbnail-TH.jpeg'
+    SH_TH ='SH_Thumbnail-TH.jpg'
+    SE_TH = 'SE_Thumbnail-TH.jpg'
+    CA = 'Coverart-CA.jpg'
+    SH_CA = 'SH_Coverart-CA.jpg'
+    SE_CA = 'SE_Coverart-CA.jpg'
+    AP = 'Poster-AP.jpg'
+    SH_AP = 'SH_Poster-AP.jpg'
+    SE_AP = 'SE_Poster-AP.jpg'
+    CL = 'KateBush_Classification-CL.jpg'
+    SH_CL = 'SH_KateBush_Classification-CL.jpg'
+    SE_CL = 'SE_KateBush_Classification-CL.jpg'
+    ML = 'LMovie_16_9-ML.jpg'
+    SH_ML = 'SH_LMovie_16_9-ML.jpg'
+    SE_ML = 'SE_LMovie_16_9-ML.jpg'
+    LN = 'fightclub-LN.jpg'
+    SH_LN = 'SH_fightclub-LN.jpg'
+    SE_LN = 'SE_fightclub-LN.jpg'
+    LW = 'LAND_16_9-LW.jpg'
+    SH_LW = 'SH_LAND_16_9-LW.jpg'
+    SE_LW = 'SE_LAND_16_9-LW.jpg'
+    BX = 'BoxArt-BX.jpg'
+    SH_BX = 'SH_BoxArt-BX.jpg'
+    SE_BX = 'SE_BoxArt-BX.jpg'
+    AL = 'Landscape-AL.JPG'
+    AT = 'AFF_16_9_PT_1366x768-AT.JPG'
+    SB = '24_Ethan_CoverArt-SB.JPG'
+    SS = '24_Ethan_Landscape-SS.JPG'
+
+
+class invalid_images:
+    TH = 'xyz.jpg'
+

@@ -1,0 +1,40 @@
+{
+    "environment": {
+        "5T": {
+            "api_server": "5t_bssmessenger",
+            "data_server": "5t_bssmessenger",
+            "db_server": "bssbrdbdt05:1525/BSSBR5T",
+            "auth_server": "wdapp1y0"
+        },
+        "7T": {
+            "api_server": "7t_bssmessenger",
+            "data_server": "7t_bssmessenger",
+            "db_server": "bssbrdbt07:1525/BSSBR7T",
+            "auth_server": "wtiod051"
+        },
+        "3T": {
+            "api_server": "wd011677",
+            "data_server": "3t_bssmessenger",
+            "db_server": "bssbrdbt03:1525/BSSBR3T",
+            "auth_server": "wd011677"
+        },
+        "default": {
+           "api_server": "5t_bssmessenger",
+            "data_server": "5t_bssmessenger",
+            "db_server": "bssbrdbt05:1525/BSSBR5T",
+            "auth_server": "wdapp1y0"
+        },
+        "1D": {
+           "api_server": "localhost",
+            "data_server": "localhost",
+            "db_server": "bssbrdbd01:1525/BSSBR1D",
+            "auth_server": "chidatapp464"
+        }
+    },
+    "auth_path": "api/v1/authentication/generate/token",
+    "boxset_auth_path": "api/vod/ui/v1/authentication/generate/token",
+    "user": {
+        "username": "BSSAUTO_01",
+        "password": "R9E!86RQJTZJJ!KW7Q"
+    }
+}
